@@ -33,10 +33,21 @@ R, Tableau, Excel
 - Analyzing differences between casual riders and annual members.
 - Suggesting marketing strategies to increase annual memberships.
 
-### **Key Findings:**
-- Summary of key insights derived from the analysis.
-- Notable patterns in bike usage and user demographics.
-- Strategic recommendations based on data-driven insights.
+## **Marketing Suggestions:**
+I do not have a background in marketing at all, so please correct me if needed.
+These are my suggestions for the marketing team to convert casual riders to annual members:
+
+- Emphasize membership benefits with a focus on discounts during busy times of the year, Summer, and more on weekends. 
+- Personalize customer discounts by asking the customer what their riding habits and preferences are.
+- Have existing members give testimonials and their personal story on how using Cyclistic's system has changed their lives.
+  This creates a community out of customers, offers discounts to existing customers, and encourages new customers to join the program. 
+
+## **What I Learned**
+Arguably the most important piece of this project, where I've spent a combined total of 40+ hours.
+- Pivot Tables in Microsoft Excel
+- Practice using R for data analysis and cleaning specifically using the 'tidyverse' package for data analysis 
+- Graphs in Tableau, edited visual elements along with creating different charts and filters. 
+- Design elements of an effective dashboard
 
 ## **Files**
 
